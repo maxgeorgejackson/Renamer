@@ -10,7 +10,7 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o
 start /wait "" .\miniconda.exe /S
 del miniconda.exe
 ```
-
+** This can take some time to install but will not need to be done again after the first time **
 ### 1. Create a conda environment:
 
 ```
