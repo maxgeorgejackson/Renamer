@@ -3,6 +3,13 @@ This is the github page showing how to install and use the renamer from Patholog
 
 ## Installing environment (Windows)
 This should all be done within the command prompt (CMD).
+If you do not already have conda installed, run the code below in the CMD.
+
+```
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o miniconda.exe
+start /wait "" .\miniconda.exe /S
+del miniconda.exe
+```
 
 ### 1. Create a conda environment:
 
