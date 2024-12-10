@@ -28,7 +28,15 @@ conda create -n biobank python -y
 conda activate biobank
 ```
 ### 2. Installing dependancies
+#### MWS
+```
+M:
+git clone https://github.com/maxgeorgejackson/Renamer/
+dir Renamer
+pip install pandas openpyxl
+```
 
+#### NON-MWS
 ```
 git clone https://github.com/maxgeorgejackson/Renamer/
 dir Renamer
