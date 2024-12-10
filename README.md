@@ -32,14 +32,14 @@ conda activate biobank
 ```
 M:
 git clone https://github.com/maxgeorgejackson/Renamer/
-dir Renamer
+cd Renamer
 pip install pandas openpyxl
 ```
 
 #### NON-MWS
 ```
 git clone https://github.com/maxgeorgejackson/Renamer/
-dir Renamer
+cd Renamer
 pip install pandas openpyxl
 ```
 
