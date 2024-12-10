@@ -24,7 +24,7 @@ This will propt a reboot but after this has been done once, you won't have to do
 ### 1. Create a conda environment:
 
 ```
-conda create -n biobank python=13.1 -y
+conda create -n biobank python -y
 conda activate biobank
 ```
 ### 2. Installing dependancies
